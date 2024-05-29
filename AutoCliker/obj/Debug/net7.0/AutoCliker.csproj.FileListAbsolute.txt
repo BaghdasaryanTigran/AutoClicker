@@ -1,0 +1,15 @@
+D:\AutoCliker\AutoCliker\bin\Debug\net7.0\AutoCliker.exe
+D:\AutoCliker\AutoCliker\bin\Debug\net7.0\AutoCliker.deps.json
+D:\AutoCliker\AutoCliker\bin\Debug\net7.0\AutoCliker.runtimeconfig.json
+D:\AutoCliker\AutoCliker\bin\Debug\net7.0\AutoCliker.dll
+D:\AutoCliker\AutoCliker\bin\Debug\net7.0\AutoCliker.pdb
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\AutoCliker.csproj.AssemblyReference.cache
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\AutoCliker.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\AutoCliker.AssemblyInfoInputs.cache
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\AutoCliker.AssemblyInfo.cs
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\AutoCliker.csproj.CoreCompileInputs.cache
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\AutoCliker.dll
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\refint\AutoCliker.dll
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\AutoCliker.pdb
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\AutoCliker.genruntimeconfig.cache
+D:\AutoCliker\AutoCliker\obj\Debug\net7.0\ref\AutoCliker.dll
